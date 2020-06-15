@@ -1,5 +1,4 @@
-Burning-Air-For-Fuel
-====================
+<img src="TitleBig.png"></img>
 
 Hey guys!, MCXIV here! In my initial days of learning java i was very curious about things i could do with this wonderful language. There are a lot of things to mentions here, lemme see if i can cover them all.
 
@@ -31,3 +30,15 @@ My highscore is aJcv=VaXujhC.
 
 
 Please let me know how much you liked the game.
+
+
+# Galary
+
+<img src="game.png">
+The usual gameplay with the house flies... er, the bombers.
+
+<img src="white.png">
+The quad copter boss.
+
+<img src="green.png">
+The unstable one.
