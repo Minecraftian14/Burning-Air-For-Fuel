@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9295d52e-36d5-4479-8be1-5cc56d185574" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Backp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Boss1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Boss2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Bullet1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Bullet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Bullet3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Credits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Creditsp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/DeveBy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Mousep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/MyPlane1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/MyPlane2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/MyPlane3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Newhighscore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Playp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Sea1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Sea2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Sea3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Sea4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Sea5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Settingsp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Startp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/Title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/bck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/blast.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/bossbullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/click.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/enemy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/enemydeath.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/launch.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/next.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/null.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/nxt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/obj.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/BCK/shoot.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Bullet$bulletThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Bullet$bulletThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Enemy$enemyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Enemy$enemyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss$ebulletThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss$ebulletThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss$enemyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss$enemyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$EnemyBoss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$ExtButLis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$ExtButLis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$PANE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$PANE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Player$playerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Player$playerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$backGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$backGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$disableSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$disableSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$eBullet$bulletThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$eBullet$bulletThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$eBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$eBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$gameThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game$gameThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Loader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Loader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Scores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Scores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Sound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/Sound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/main/init.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/obj.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel/obj.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/init.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectId" id="1VnS9w1Jgkdy1qVBaRTfRxOz6FV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/Burning-Air-For-Fuel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\JAVA\Burning-Air-For-Fuel\out\production\Burning-Air-For-Fuel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Loader">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Game" />
+      <module name="Burning-Air-For-Fuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Loader" />
+      <module name="Burning-Air-For-Fuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.init" />
+      <module name="Burning-Air-For-Fuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Loader" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.init" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9295d52e-36d5-4479-8be1-5cc56d185574" name="Default Changelist" comment="" />
+      <created>1567252357000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567252357000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1592215805990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592215805990" />
+    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1592215805990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592215805990" />
+    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1592215805990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592215805990" />
+    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1592215805990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592215805990" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
