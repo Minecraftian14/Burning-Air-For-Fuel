@@ -1,5 +1,7 @@
 <img src="TitleBig.png"></img>
 
+[![](https://img.shields.io/discord/872811194170347520?color=%237289da&logoColor=%23424549)](https://discord.gg/hZnHFGvU6W)
+
 Hey guys!, MCXIV here! In my initial days of learning java i was very curious about things i could do with this wonderful language. There are a lot of things to mentions here, lemme see if i can cover them all.
 
 First of all, people, this is not one of the repositories which you can easily go to and download the code. What i want to say is that most (97%) of the code is stuffed into one poor little(long) java file. Just to mention, as compared to how i code today, each of my java files are literally smaller than the space in which all variables are declared (in game.java).
