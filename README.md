@@ -1,6 +1,6 @@
 <img src="TitleBig.png"></img>
 
-[![](https://img.shields.io/discord/872811194170347520?color=%237289da&logoColor=%23424549)](https://discord.gg/hZnHFGvU6W)
+[![](https://img.shields.io/discord/872811194170347520?color=%237289da&logoColor=%23424549)](https://discord.gg/Ar6Zuj2m82)
 
 Hey guys!, MCXIV here! In my initial days of learning java i was very curious about things i could do with this wonderful language. There are a lot of things to mentions here, lemme see if i can cover them all.
 
